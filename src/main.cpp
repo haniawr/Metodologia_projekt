@@ -7,6 +7,6 @@ int main(){
 	cout << "Enter b: ";
 	cin >> b;
 
-	cout << a << " * " << b << " is " <<  multiple(a,b) << endl;
+	cout << "Product equals: " <<  multiple(a,b) << endl;
 return 0;
 }
